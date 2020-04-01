@@ -1,1 +1,1 @@
-echo "# shiyanlou-code"
+# shiyanlou-code
